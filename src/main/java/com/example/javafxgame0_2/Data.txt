@@ -1,0 +1,7 @@
+Filip's score is :4
+score is :25
+score is :1
+score is :16
+score is :18
+score is :0
+score is :11
